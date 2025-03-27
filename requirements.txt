@@ -4,9 +4,3 @@ azure-identity
 openai
 pyprojroot
 PyYAML
-flask
-fastapi
-uvicorn
-dapr
-dapr-ext-fastapi
-flask-dapr
